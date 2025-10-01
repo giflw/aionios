@@ -1,0 +1,56 @@
+site_name: Aionios Coral
+site_author: Guilherme I F L Weizenmann
+docs_dir: site
+site_dir: build
+site_url: https://giflw.github.io/aionios/
+theme:
+  name: material # https://squidfunk.github.io/mkdocs-material/
+  features:
+    - navigation.indexes
+    - navigation.sections
+  font:
+    text: Roboto Mono
+    code: Roboto Mono
+  palette:
+    # Light mode
+    - scheme: default
+      primary: indigo
+      accent: indigo
+      toggle:
+        icon: material/toggle-switch-off-outline
+        name: Switch to dark mode
+    # Dark mode
+    - scheme: slate
+      primary: blue
+      accent: blue
+      toggle:
+        icon: material/toggle-switch
+        name: Switch to light mode
+markdown_extensions: 
+  - admonition
+  - attr_list
+  - def_list
+  #- codehilite
+  - footnotes
+  - meta
+  - toc:
+      permalink: true
+  - pymdownx.betterem:
+      smart_enable: all
+extra_css:
+  - repertorio/stylesheet.css
+plugins:
+  - search
+  - awesome-nav # https://lukasgeiter.github.io/mkdocs-awesome-nav/
+  - to-pdf: # https://mkdocs-to-pdf.readthedocs.io/en/stable/
+      download_link: header
+      author: Guilherme I F L Weizenmann
+      copyright: "© 2025 GiFlw"
+      cover_title: Aionios Coral
+      cover_subtitle: Repertório
+      #cover_logo: https://commons.wikimedia.org/wiki/File:Octicons-mark-github.svg
+      toc_level: 0
+      ordered_chapter_level: 0
+      heading_shift: false
+      #output_path: file.pdf
+      #enabled_if_env: ENABLE_PDF_EXPORT

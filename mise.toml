@@ -1,0 +1,13 @@
+[tools]
+python = "3.13"
+
+
+[env]
+_.python.venv = { path = ".venv", create = true } # create the venv if it doesn't exist
+
+
+[hooks]
+postinstall = "pip install -r requirements.txt"
+
+[tasks.serve]
+run = "python -m mkdocs serve --livereload"

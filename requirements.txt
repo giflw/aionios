@@ -1,0 +1,6 @@
+mkdocs==1.6.1
+mkdocs-awesome-nav==3.2.0
+mkdocs-material==9.6.21
+mkdocs-to-pdf==0.10.1
+pymdown-extensions==10.16.1
+weasyprint==62.3

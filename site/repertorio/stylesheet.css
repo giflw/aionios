@@ -1,0 +1,33 @@
+@page {
+    size: a4 portrait !important;
+    @bottom-center {
+        content: ' ' !important;
+    }
+    @bottom-right {
+        content: ' ' !important;
+    }
+}
+@page :first {
+    @bottom-right {
+        content: ' ' !important;
+    }
+}
+
+@media print {
+    :root {
+        font-size: 20pt !important;
+    }
+    section:has(h1.two-column) {
+        columns: 2 !important;
+    }
+    h1 {
+        column-span: all !important;
+    }
+}
+
+article:has(h1.two-column) {
+    columns: 2 !important;
+}
+h1 {
+    column-span: all !important;
+}

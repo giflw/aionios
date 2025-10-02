@@ -1,3 +1,7 @@
+---
+icon: material/emoticon-happy
+---
+
 # A Benção {: .two-column }
 
 Que o Senhor te abençoe

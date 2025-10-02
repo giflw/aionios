@@ -1,4 +1,4 @@
-# O Lamento de Israel
+# O Lamento de Israel {: .two-column }
 
 Quando em cativeiro te levaram de Sião  
 E os teus sacerdotes prantearam de aflição  

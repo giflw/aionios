@@ -25,9 +25,11 @@
     }
 }
 
-article:has(h1.two-column) {
-    columns: 2 !important;
-}
-h1 {
-    column-span: all !important;
+@media screen {
+    article:has(h1.two-column) {
+        columns: 2 !important;
+    }
+    h1 {
+        column-span: all !important;
+    }
 }

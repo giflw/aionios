@@ -1,42 +1,46 @@
+---
+icon: material/check
+---
+
 # O Lamento de Israel {: .two-column }
 
-Quando em cativeiro te levaram de Sião  
-E os teus sacerdotes prantearam de aflição  
-Foi como morrer de vergonha e dor  
-Caminhava triste o povo forte do Senhor  
+*[M] Quando em cativeiro te levaram de Sião  
+[M] E os teus sacerdotes prantearam de aflição*  
+[H] Foi como morrer de vergonha e dor  
+**[T] Caminhava triste o povo forte do Senhor**
 
-Ah, Jerusalém porque deixaste de adorar  
-O Deus vivo que em tantas batalhas te ajudou  
-Chora Israel, num lamento só  
-Talvez Deus se lembre do bichinho de Jacó
+[H] Ah, Jerusalém porque deixaste de adorar  
+[H] O Deus vivo que em tantas batalhas te ajudou  
+*[M] Chora Israel, num lamento só*  
+**[T] Talvez Deus se lembre do bichinho de Jacó**
 
-Chora Israel  
-Babilônia não é teu lugar  
-Clama ao teu Deus  
-Ele teu ouvirá  
-Do inimigo te libertará
+*[M] Chora Israel  
+[M] Babilônia não é teu lugar*  
+[H] Clama ao teu Deus  
+[H] Ele teu ouvirá  
+**[T] Do inimigo te libertará [H-|M1-|M2~]**
 
-Chora Israel  
-Babilônia não é teu lugar  
-Clama ao teu Deus  
-Ele teu ouvirá  
-Do inimigo te libertará
+**[T] Chora Israel  
+[T] Babilônia não é teu lugar  
+[T] Clama ao teu Deus  
+[T] Ele teu ouvirá  
+[T] Do inimigo te libertará**
 
 (Interlúdio)
 
-Ah, Jerusalém porque deixaste de adorar  
-O Deus vivo que em tantas batalhas te ajudou  
-Chora Israel, num lamento só  
-Talvez Deus se lembre do bichinho de Jacó
+[H] Ah, Jerusalém porque deixaste de adorar  
+[H] O Deus vivo que em tantas batalhas te ajudou  
+*[M] Chora Israel, num lamento só*  
+**[T] Talvez Deus se lembre do bichinho de Jacó**
 
-Chora Israel  
-Babilônia não é teu lugar  
-Clama ao teu Deus  
-Ele teu ouvirá  
-Do inimigo te libertará
+*[M] Chora Israel  
+[M] Babilônia não é teu lugar*  
+[H] Clama ao teu Deus  
+[H] Ele teu ouvirá  
+**[T] Do inimigo te libertará [H-|M1-|M2~]**
 
-Chora Israel  
-Babilônia não é teu lugar  
-Clama ao teu Deus  
-Ele teu ouvirá  
-Do inimigo te libertará
+**[T] Chora Israel  
+[T] Babilônia não é teu lugar  
+[T] Clama ao teu Deus  
+[T] Ele teu ouvirá  
+[T] Do inimigo te libertará**

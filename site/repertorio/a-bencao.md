@@ -1,5 +1,5 @@
 ---
-icon: material/emoticon-happy
+#icon: material/emoticon-happy
 ---
 
 # A Benção {: .two-column }
